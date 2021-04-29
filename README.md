@@ -1,8 +1,5 @@
-# Casestudy 
-Homework 1 
-
-#Case Study 
-#Coinbase 
+# Case Study
+# Coinbase 
 
 ## Overview and Origin:
 
