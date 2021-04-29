@@ -11,7 +11,7 @@ Coinbase started out by creating a space where bitcoin can be received and sent 
 
 Coinbase is aiming to extend its services to the whole world, especially those in developing countries. However, the audience currently consists of millennials (25-34 years old) and mostly males. Coinbase has 56 million verified users. 
 
-Coinbase offers a large amount of altcoins to U.S users. They also are known to be secure and is backed by banks like J.P. Morgan.  Coinbase has an easy to use interface that attracts investors of all backgrounds.
+Coinbase offers 32 cryptocurrencies to U.S. customers to trade, and 36 on Coinbase Pro. Compared to eToro, who offers half of that. They also have an easy to use interface that attracts investors of all backgrounds.
 
 
 ## Landscape:
@@ -30,18 +30,12 @@ Top companies include Gemini, IBM, Circle, and BitMex. The domain is proving to 
 The business impact of Coinbase has been providing a highly secure platform where investors/users can come invest, spend and use crypto. Coinbase reported in early April 2021, that its revenue rose 847% in the first quarter to $1.8 billion. 
 
 
-Coinbase is certainly a top performer in the blockchain and cryptocurrency domain. However, Binance is the world's largest crypto exchange platform and beats Coinbase when it comings to daily trading volume. When it comes to user friendly interfaces, Coinbase is more appealing to new crypto investors, thus will be a popular choice for many users. 
-
-
 ## Recommendations:
 
-Upon reading reviews on the company, customer service seems to be a big issue. With crypto trading being a 24/7 business, this can cause issues if there is not enough staff to support the large volume of customers. 
-
-Customer service is key in any business. If users are having issues, they want them solved, especially if there is large amounts of money involved. In the world of investing, this should be a priority for trading platforms. 
 
 
 ## Resources:
-- https://www.cbinsights.com/research/report/coinbase-strategy-teardown/#:~:text=Coinbase%20makes%20money%20by%20charging,like%20the%20NASDAQ%20or%20NYSE (Explains Coinbase strategy)
+- https://www.cbinsights.com/research/report/coinbase-strategy-teardown/#:~:text=Coinbase%20makes%20money%20by%20charging,like%20the%20NASDAQ%20or%20NYSE (Explains Coinbase Strategy)
 
 - https://www.coinbase.com/about (Coinbase website.)
 
@@ -62,5 +56,3 @@ Customer service is key in any business. If users are having issues, they want t
 - https://www.blockchain-council.org/blockchain/top-10-companies-that-have-already-adopted-blockchain/ (Companies that have adopted blockchain technology)
 
 - https://builtin.com/blockchain/blockchain-companies-roundup (Top blockchain companies)
-
-- https://www.investopedia.com/binance-vs-coinbase-5120852#:~:text=Coinbase%3A%20Supported%20Currencies,on%20the%20Coinbase%20Pro%20exchange (Binance vs. Coinbase)
