@@ -62,5 +62,8 @@ Customer service is key in any business. If users are having issues, they want t
 - https://www.blockchain-council.org/blockchain/top-10-companies-that-have-already-adopted-blockchain/ (Companies that have adopted blockchain technology)
 
 - https://builtin.com/blockchain/blockchain-companies-roundup (Top blockchain companies)
+<<<<<<< HEAD:README.md
 
 - https://www.investopedia.com/binance-vs-coinbase-5120852#:~:text=Coinbase%3A%20Supported%20Currencies,on%20the%20Coinbase%20Pro%20exchange (Binance vs. Coinbase)
+=======
+>>>>>>> 6e77b63fde0dc62cafa514ddd80a1ade6728fda9:casestudy.md
