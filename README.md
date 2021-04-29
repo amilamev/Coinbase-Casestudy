@@ -34,25 +34,25 @@ The business impact of Coinbase has been providing a highly secure platform wher
 
 
 
-# Resources:
-https://www.cbinsights.com/research/report/coinbase-strategy-teardown/#:~:text=Coinbase%20makes%20money%20by%20charging,like%20the%20NASDAQ%20or%20NYSE (Explains Coinbase Strategy)
+## Resources:
+- https://www.cbinsights.com/research/report/coinbase-strategy-teardown/#:~:text=Coinbase%20makes%20money%20by%20charging,like%20the%20NASDAQ%20or%20NYSE (Explains Coinbase Strategy)
 
-https://www.coinbase.com/about (Coinbase website.)
+- https://www.coinbase.com/about (Coinbase website.)
 
-https://en.wikipedia.org/wiki/Coinbase (General information on Coinbase)
+- https://en.wikipedia.org/wiki/Coinbase (General information on Coinbase)
 
-https://www.forbes.com/companies/coinbase/?sh=1439a847699f (Lists investors)
+- https://www.forbes.com/companies/coinbase/?sh=1439a847699f (Lists investors)
 
-https://www.crunchbase.com/organization/coinbase/company_financials (Funding)
+- https://www.crunchbase.com/organization/coinbase/company_financials (Funding)
 
-https://medium.com/@barmstrong/what-is-coinbases-strategy-1c5413f6e09d#:~:text=These%20will%20be%20people%20with,transacting%20users%20in%20this%20step (CEO Brian Armstrong - mission and strategy of Coinbase)
+- https://medium.com/@barmstrong/what-is-coinbases-strategy-1c5413f6e09d#:~:text=These%20will%20be%20people%20with,transacting%20users%20in%20this%20step (CEO Brian Armstrong - mission and strategy of Coinbase)
 
-https://medium.com/@BountyBase/who-are-the-investors-behind-the-300-billion-dollar-crypto-industry-a82a701d1771 (More information on investors)
+- https://medium.com/@BountyBase/who-are-the-investors-behind-the-300-billion-dollar-crypto-industry-a82a701d1771 (More information on investors)
 
-https://www.nerdwallet.com/reviews/investing/brokers/coinbase#:~:text=Formerly%20known%20as%20GDAX%2C%20Coinbase,market%2C%20limit%20and%20stop%20orders.&text=Coinbase%20charges%20a%20spread%20of,lower%20depending%20on%20market%20fluctuations (Lists Coinbase features)
+- https://www.nerdwallet.com/reviews/investing/brokers/coinbase#:~:text=Formerly%20known%20as%20GDAX%2C%20Coinbase,market%2C%20limit%20and%20stop%20orders.&text=Coinbase%20charges%20a%20spread%20of,lower%20depending%20on%20market%20fluctuations (Lists Coinbase features)
 
-https://www.forbes.com/sites/bernardmarr/2021/03/12/the-six-biggest-blockchain-trends-everyone-should-know-about-in-2021/?sh=4f2a560b6631 (Trends and future trends)
+- https://www.forbes.com/sites/bernardmarr/2021/03/12/the-six-biggest-blockchain-trends-everyone-should-know-about-in-2021/?sh=4f2a560b6631 (Trends and future trends)
 
-https://www.blockchain-council.org/blockchain/top-10-companies-that-have-already-adopted-blockchain/ (Companies that have adopted blockchain technology)
+- https://www.blockchain-council.org/blockchain/top-10-companies-that-have-already-adopted-blockchain/ (Companies that have adopted blockchain technology)
 
-https://builtin.com/blockchain/blockchain-companies-roundup (Top blockchain companies)
+- https://builtin.com/blockchain/blockchain-companies-roundup (Top blockchain companies)
