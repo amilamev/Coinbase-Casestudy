@@ -1,11 +1,9 @@
-# Case Study
-# Coinbase 
+# Coinbase Case Study
 
 ## Overview and Origin:
 
 Coinbase is an easy-to-use platform for cryptocurrency exchange. The company was founded by Brian Armstrong and Fred Ehrsam and incorporated in June 2012. The idea behind Coinbase was to create a space where anyone can send and receive bitcoin securely.  Coinbase is funded by brand name venture investors like Andreessen Horowitz, Tiger Global Management, and Union Square Ventures. As of October 2020, the company has received **$547.3 million** in funding. 
 
----
 
 ## Business Activities:
 
@@ -15,7 +13,6 @@ Coinbase is aiming to extend its services to the whole world, especially those i
 
 Coinbase offers 32 cryptocurrencies to U.S. customers to trade, and 36 on Coinbase Pro. Compared to eToro, who offers half of that. They also have an easy to use interface that attracts investors of all backgrounds.
 
----
 
 ## Landscape:
 
@@ -25,37 +22,37 @@ Blockchain technology is being adopted through many industries. Blockchain techn
 
 Bitcoin is a major player in this domain and has been in most of the headlines due to its astronomical rise in value over the last few years. Corporations like IBM are leaders in providing the blockchain technology and services to businesses. Microsoft has been accepting bitcoin as payment since 2014.  Businesses have begun to invest heavily in blockchain technology and investments are estimated to reach $16 billion by 2023. Within finance and healthcare, we will see this technology being utilized most. 
 
-Top companies include Gemini, IBM, Circle, and BitMex. The domain is proving to be so promising that IBM has invested more than 200 million in research. 
+Top companies include Gemini, IBM, Circle, and BitMex. The domain is proving to be so promising that IBM has invested more than 200 million in research.
+
 
 ## Results:
 
 The business impact of Coinbase has been providing a highly secure platform where investors/users can come invest, spend and use crypto. Coinbase reported in early April 2021, that its revenue rose 847% in the first quarter to $1.8 billion. 
 
----
 
 ## Recommendations:
 
 
 
 # Resources:
-[https://www.cbinsights.com/research/report/coinbase-strategy-teardown/#:~:text=Coinbase%20makes%20money%20by%20charging,like%20the%20NASDAQ%20or%20NYSE]
+https://www.cbinsights.com/research/report/coinbase-strategy-teardown/#:~:text=Coinbase%20makes%20money%20by%20charging,like%20the%20NASDAQ%20or%20NYSE (Explains Coinbase Strategy)
 
-[https://www.coinbase.com/about]
+https://www.coinbase.com/about (Coinbase website.)
 
-[https://en.wikipedia.org/wiki/Coinbase]
+https://en.wikipedia.org/wiki/Coinbase (General information on Coinbase)
 
-[https://www.forbes.com/companies/coinbase/?sh=1439a847699f]
+https://www.forbes.com/companies/coinbase/?sh=1439a847699f (Lists investors)
 
-[https://www.crunchbase.com/organization/coinbase/company_financials]
+https://www.crunchbase.com/organization/coinbase/company_financials (Funding)
 
-[https://medium.com/@barmstrong/what-is-coinbases-strategy-1c5413f6e09d#:~:text=These%20will%20be%20people%20with,transacting%20users%20in%20this%20step]
+https://medium.com/@barmstrong/what-is-coinbases-strategy-1c5413f6e09d#:~:text=These%20will%20be%20people%20with,transacting%20users%20in%20this%20step (CEO Brian Armstrong - mission and strategy of Coinbase)
 
-[https://medium.com/@BountyBase/who-are-the-investors-behind-the-300-billion-dollar-crypto-industry-a82a701d1771]
+https://medium.com/@BountyBase/who-are-the-investors-behind-the-300-billion-dollar-crypto-industry-a82a701d1771 (More information on investors)
 
-[https://www.nerdwallet.com/reviews/investing/brokers/coinbase#:~:text=Formerly%20known%20as%20GDAX%2C%20Coinbase,market%2C%20limit%20and%20stop%20orders.&text=Coinbase%20charges%20a%20spread%20of,lower%20depending%20on%20market%20fluctuations]
+https://www.nerdwallet.com/reviews/investing/brokers/coinbase#:~:text=Formerly%20known%20as%20GDAX%2C%20Coinbase,market%2C%20limit%20and%20stop%20orders.&text=Coinbase%20charges%20a%20spread%20of,lower%20depending%20on%20market%20fluctuations (Lists Coinbase features)
 
-[https://www.forbes.com/sites/bernardmarr/2021/03/12/the-six-biggest-blockchain-trends-everyone-should-know-about-in-2021/?sh=4f2a560b6631]
+https://www.forbes.com/sites/bernardmarr/2021/03/12/the-six-biggest-blockchain-trends-everyone-should-know-about-in-2021/?sh=4f2a560b6631 (Trends and future trends)
 
-[https://www.blockchain-council.org/blockchain/top-10-companies-that-have-already-adopted-blockchain/]
+https://www.blockchain-council.org/blockchain/top-10-companies-that-have-already-adopted-blockchain/ (Companies that have adopted blockchain technology)
 
-[https://builtin.com/blockchain/blockchain-companies-roundup]
+https://builtin.com/blockchain/blockchain-companies-roundup (Top blockchain companies)
