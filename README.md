@@ -2,35 +2,41 @@
 
 ## Overview and Origin:
 
-Coinbase is an easy-to-use platform for cryptocurrency exchange. The company was founded by Brian Armstrong and Fred Ehrsam and incorporated in June 2012. The idea behind Coinbase was to create a space where anyone can send and receive bitcoin securely.  Coinbase is funded by brand name venture investors like Andreessen Horowitz, Tiger Global Management, and Union Square Ventures. As of October 2020, the company has received **$547.3 million** in funding. 
+Coinbase is an easy-to-use platform for cryptocurrency exchange. The company was founded by Brian Armstrong and Fred Ehrsam and incorporated in June 2012. The idea behind Coinbase was to create a space where anyone can send and receive bitcoin securely.  Coinbase is funded by brand name venture investors like Andreessen Horowitz, Tiger Global Management, and Union Square Ventures. As of October 2020, the company has received **$547.3 million** in funding. The company altcoin list includes Bitcoin, Litecoin, Ethereum, and XRP along with many others. In April 2021, Coinbase went public and opened at $381 per share, creating a landmark moment for the industry. 
 
 
 ## Business Activities:
 
 Coinbase started out by creating a space where bitcoin can be received and sent securely. Since 2012, they have managed to expand and become a safe trading platform for new cryptocurrencies in the market. Coinbase’s intention is to be a platform where users looking for privacy can come invest, spend, save, earn, and use crypto.  CEO Brian Armstrong vision is to accelerate the path to an open financial system, therefore, creating more economic freedom and providing financial services to billions. 
 
-Coinbase is aiming to extend its services to the whole world, especially those in developing countries. However, the audience currently consists of millennials (25-34 years old) and mostly males. Coinbase has 56 million verified users. 
+Coinbase is aiming to extend its services to the whole world, especially those in developing countries. However, the audience currently consists of millennials (25-34 years old) and mostly males. Currently Coinbase has 56 million verified users. 
 
-Coinbase offers a large amount of altcoins to U.S users. They also are known to be secure and is backed by banks like J.P. Morgan.  Coinbase has an easy to use interface that attracts investors of all backgrounds.
+Coinbase offers a large amount of altcoins to U.S users. They also are known to be secure and is backed by banks like J.P. Morgan.  Coinbase has an easy to use interface that attracts investors of all backgrounds. 
 
 
 ## Landscape:
 
 Coinbase is within the evolving blockchain and cryptocurrency domain of the FinTech industry. 
 
-Blockchain technology is being adopted through many industries. Blockchain technology  is valuable for transactions where values and timestamps need to be securely recorded. 
+Blockchain technology is being adopted through many industries. Blockchain technology  is valuable for transactions where values and timestamps need to be securely recorded. Banking/finance and healthcare will benefit greatly from the use of blockchains to secure data. 
 
-Bitcoin is a major player in this domain and has been in most of the headlines due to its astronomical rise in value over the last few years. Corporations like IBM are leaders in providing the blockchain technology and services to businesses. Microsoft has been accepting bitcoin as payment since 2014.  Businesses have begun to invest heavily in blockchain technology and investments are estimated to reach $16 billion by 2023. Within finance and healthcare, we will see this technology being utilized most. 
+Bitcoin is a major player in this domain and is the one most commonly discussed due to its astronomical rise in value over the last few years. Corporations like IBM are leaders in providing the blockchain technology and services to businesses. Another tech giant, Microsoft, has been accepting bitcoin as payment since 2014 and currently accept Bitcoin as a method of payment on their online xbox store. 
+
+In 2021, we have seen the appearance of non-fungible tokens in the art community. By using blockchain technology, these "goods" cannot be lost, damaged, or stolen. These cryptocurrencies are giving a new meaning to value and changing how we determine what something is worth. 
+
+Businesses have begun to invest heavily in blockchain technology and investments are estimated to reach $16 billion by 2023. Within finance and healthcare, we will see this technology being utilized most. 
 
 Top companies include Gemini, IBM, Circle, and BitMex. The domain is proving to be so promising that IBM has invested more than 200 million in research.
 
 
 ## Results:
 
-The business impact of Coinbase has been providing a highly secure platform where investors/users can come invest, spend and use crypto. Coinbase reported in early April 2021, that its revenue rose 847% in the first quarter to $1.8 billion. 
+The business impact of Coinbase has been providing a highly secure platform where investors/users can come invest, spend and use crypto. Coinbase reported in early April 2021, that its revenue rose 847% in the first quarter to $1.8 billion. Coinbase also went public and was given a valuation of around $85 billion. They are setting the space for crypto in the world of finance and are proving themselves to be valuable players. It is the first major cryptocurrency to go live on a U.S exchange. 
 
 
 Coinbase is certainly a top performer in the blockchain and cryptocurrency domain. However, Binance is the world's largest crypto exchange platform and beats Coinbase when it comings to daily trading volume. When it comes to user friendly interfaces, Coinbase is more appealing to new crypto investors, thus will be a popular choice for many users. 
+
+Coinbase is better for investors who prefer to hold long term. Alternatively, Binance offers lower fees per transaction and incentivizes high volume traders with thier fee structure. 
 
 
 ## Recommendations:
@@ -64,3 +70,7 @@ Customer service is key in any business. If users are having issues, they want t
 - https://builtin.com/blockchain/blockchain-companies-roundup (Top blockchain companies)
 
 - https://cryptopro.app/coinbase-alternatives/#Binance (Binance vs. Coinbase)
+
+- https://www.wmagazine.com/culture/what-is-ntf-explainer (NFTs)
+
+-https://slate.com/technology/2021/04/coinbase-public-direct-listing-nasdaq-cryptocurrency-bitcoin-explained.html (Stock)
